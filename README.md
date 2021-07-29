@@ -1,8 +1,8 @@
-# https://github.com/TheDudeThatCode/TheDudeThatCode#-hello-world-[image](https://user-images.githubusercontent.com/74108714/127416968-1339caf7-a4d5-468e-b17c-ed98f3c00e63.png) Hello world! https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif
+# <code><img height= "20"src= "https://github.com/TheDudeThatCode/TheDudeThatCode#-hello-world-[image]></code> https://user-images.githubusercontent.com/74108714/127416968-1339caf7-a4d5-468e-b17c-ed98f3c00e63.png) Hello world! https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif
 
 # Seja bem vindo. !
 
-
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
  
 
 ## Eu sou Felippe Régis, Curitiba/PR
