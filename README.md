@@ -1,4 +1,4 @@
-# <img src=https://user-images.githubusercontent.com/74108714/127417282-d018cf20-0a89-460a-bf2f-9452565e39b4.png width="30">
+# <img src=![image](https://user-images.githubusercontent.com/74108714/127417513-1797f1c8-4cc1-49b5-aba8-0f30396dacab.png) width="30">
 # Hello world ! https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif
 
 # Seja bem vindo. !
