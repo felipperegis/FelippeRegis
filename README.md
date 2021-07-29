@@ -34,7 +34,7 @@ Conhecimentos nas linguagens: HTML5, CSS3, JavaScript, Python, SQL.
 # FRAMEWORK
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-![felipperegis GitHub stats](https://github-readme-stats.vercel.app/api?felipperegis=anuraghazra&show_icons=true&theme=radical)
+![felipperegis GitHub stats](https://github-readme-stats.vercel.app/api?username=felipperegis&show_icons=true&theme=radical)
 
 
 
