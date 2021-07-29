@@ -16,15 +16,7 @@ Conhecimentos nas linguagens: HTML5, CSS3, JavaScript, Python, SQL.
 
 "It is not the programming language that defines the programmer, but your logic."
 
-:computer: 
 
-:house_with_garden: Sou do Brazil.
-
-:books: 
-
-:outbox_tray: 2
-
- 
 
 # SOBRE MIM
 
@@ -42,8 +34,8 @@ Conhecimentos nas linguagens: HTML5, CSS3, JavaScript, Python, SQL.
 # FRAMEWORK
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
+![felipperegis GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
