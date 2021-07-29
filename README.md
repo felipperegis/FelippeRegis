@@ -36,9 +36,7 @@ Conhecimentos nas linguagens: HTML5, CSS3, JavaScript, Python, SQL.
 
 ![felipperegis GitHub stats](https://github-readme-stats.vercel.app/api?username=felipperegis&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipperegis&layout=compact)](https://github.com/felipperegis/github-readme-stats)
 
-![felipperegis GitHub stats](https://github-readme-stats.vercel.app/api?username=felipperegis)](https://github.com/felipperegis/github-readme-stats)
 
 
 
