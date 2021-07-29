@@ -32,7 +32,7 @@ Conhecimentos nas linguagens: HTML5, CSS3, JavaScript, Python, SQL.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/felipperegis/)
 
 # CONHECIMENTO NAS LINGUAGENS
-<img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
 
 
 <code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
