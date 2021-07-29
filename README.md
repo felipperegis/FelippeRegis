@@ -36,10 +36,10 @@ Conhecimentos nas linguagens: HTML5, CSS3, JavaScript, Python, SQL.
 # BANCO DE DADOS
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-#FRAMEWORK MOBILE
+# FRAMEWORK MOBILE
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-#FRAMEWORK
+# FRAMEWORK
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
