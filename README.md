@@ -1,4 +1,4 @@
-# https://github.com/TheDudeThatCode/TheDudeThatCode#-hello-world-[image](https://user-images.githubusercontent.com/74108714/127416968-1339caf7-a4d5-468e-b17c-ed98f3c00e63.png)Hello world! https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif
+# https://github.com/TheDudeThatCode/TheDudeThatCode#-hello-world-[image](https://user-images.githubusercontent.com/74108714/127416968-1339caf7-a4d5-468e-b17c-ed98f3c00e63.png) Hello world! https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif
 
 # Seja bem vindo. !
 
