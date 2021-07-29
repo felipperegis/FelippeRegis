@@ -1,4 +1,5 @@
-# <img height= "20"src= "https://github.com/TheDudeThatCode/TheDudeThatCode#-hello-world-" https://user-images.githubusercontent.com/74108714/127416968-1339caf7-a4d5-468e-b17c-ed98f3c00e63.png) Hello world! https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif
+# <img src=https://user-images.githubusercontent.com/74108714/127417282-d018cf20-0a89-460a-bf2f-9452565e39b4.png>
+ Hello world! https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif
 
 # Seja bem vindo. !
 
